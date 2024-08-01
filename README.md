@@ -16,6 +16,6 @@ Parts of [1] was presented at the 2022 IEEE Globecom in Rio de Janeiro, Brazil [
 
 ### References
 
-[1] M. Banagar and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," *IEEE Transactions on Vehicular Technology*, to appear. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10618887)]
+[1] M. Banagar and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," *IEEE Transactions on Vehicular Technology*, to appear, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/10618887) and [ArXiv](https://arxiv.org/abs/2205.10957).
 
-[2] M. Banagar and H. S. Dhillon, "Wobbling and impairments-aware channel model and its implications on high-frequency UAV links," in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, December 2022, pp. 5983-5988. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10000688)]
+[2] M. Banagar and H. S. Dhillon, "Wobbling and impairments-aware channel model and its implications on high-frequency UAV links," in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, December 2022, pp. 5983-5988, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/10000688).
